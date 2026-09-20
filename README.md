@@ -1,4 +1,4 @@
-# VOcadesk - AI Voice Launcher
+# Vocadesk - AI Voice Launcher
 
 Control your computer with your voice! VOcadesk is an **offline voice recognition application** that lets you launch applications and perform web searches using voice commands.
 
@@ -291,6 +291,6 @@ If you encounter issues:
 
 ---
 
-**Enjoy using VOcadesk! 🎉**
+**Enjoy using Vocadesk! 🎉**
 
 Say "open calculator" to get started!
