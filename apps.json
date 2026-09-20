@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Calculator",
+    "path": "C:/Windows/System32/calc.exe"
+  },
+  {
+    "name": "Notepad",
+    "path": "C:/Windows/System32/notepad.exe"
+  },
+  {
+    "name": "Paint",
+    "path": "C:/Windows/System32/mspaint.exe"
+  },
+  {
+    "name": "Command Prompt",
+    "path": "C:/Windows/System32/cmd.exe"
+  },
+  {
+    "name": "Explorer",
+    "path": "C:/Windows/explorer.exe"
+  },
+  {
+    "name": "Task Manager",
+    "path": "C:/Windows/System32/taskmgr.exe"
+  },
+  {
+    "name": "WordPad",
+    "path": "C:/Program Files/Windows NT/Accessories/wordpad.exe"
+  },
+  {
+    "name": "Snipping Tool",
+    "path": "C:/Windows/System32/SnippingTool.exe"
+  },
+  {
+    "name": "Chrome",
+    "path": "C:/Program Files/Google/Chrome/Application/chrome.exe"
+  },
+  {
+    "name": "Edge",
+    "path": "C:/Program Files (x86)/Microsoft/Edge/Application/msedge.exe"
+  },
+  {
+    "name": "Firefox",
+    "path": "C:/Program Files/Mozilla Firefox/firefox.exe"
+  },
+  {
+    "name": "Spotify",
+    "path": "C:/Users/praka/AppData/Local/Microsoft/WindowsApps/Spotify.exe"
+  },
+  {
+    "name": "WhatsApp",
+    "path": "C:/Users/praka/AppData/Local/WhatsApp/WhatsApp.exe"
+  },
+  {
+    "name": "Discord",
+    "path": "C:/Users/praka/AppData/Local/Discord/Update.exe"
+  },
+  {
+    "name": "Telegram",
+    "path": "C:/Users/praka/AppData/Roaming/Telegram Desktop/Telegram.exe"
+  },
+  {
+    "name": "Zoom",
+    "path": "C:/Users/praka/AppData/Roaming/Zoom/bin/Zoom.exe"
+  },
+  {
+    "name": "Teams",
+    "path": "C:/Users/praka/AppData/Local/Microsoft/Teams/current/Teams.exe"
+  },
+  {
+    "name": "Slack",
+    "path": "C:/Users/praka/AppData/Local/slack/slack.exe"
+  },
+  {
+    "name": "VS Code",
+    "path": "C:/Users/praka/AppData/Local/Programs/Microsoft VS Code/Code.exe"
+  },
+  {
+    "name": "Outlook",
+    "path": "C:/Program Files/Microsoft Office/root/Office16/OUTLOOK.EXE"
+  },
+  {
+    "name": "Word",
+    "path": "C:/Program Files/Microsoft Office/root/Office16/WINWORD.EXE"
+  },
+  {
+    "name": "Excel",
+    "path": "C:/Program Files/Microsoft Office/root/Office16/EXCEL.EXE"
+  },
+  {
+    "name": "PowerPoint",
+    "path": "C:/Program Files/Microsoft Office/root/Office16/POWERPNT.EXE"
+  },
+  {
+    "name": "VLC",
+    "path": "C:/Program Files/VideoLAN/VLC/vlc.exe"
+  }
+]
